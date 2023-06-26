@@ -32,5 +32,5 @@ For the Google Fonts Library, run this command in the projects terminal:
     - Title of course: Flutter & Dart - The Complete Guide [2023 Edition]
     - Source: https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
 
-3. For more information about the Google Fonts Library that was used
+2. For more information about the Google Fonts Library that was used
     - Source: https://pub.dev/packages/google_fonts 
